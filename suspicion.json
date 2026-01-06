@@ -1,0 +1,497 @@
+{
+    "license:d61e715f3d3db6d16917b671fb8713f4d9b89876": {
+        "score": 0,
+        "lastUpdate": 1767542463,
+        "history": [
+            {
+                "points": 35,
+                "reason": "Grosse somme reçue (>=500k)",
+                "t": "30/12/2025 14:06:44",
+                "extra": {
+                    "toInv": 1,
+                    "toType": "player",
+                    "count": 500000,
+                    "item": "money",
+                    "fromInv": "temp-581668",
+                    "fromType": "temp"
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "03/01/2026 16:44:37",
+                "extra": {
+                    "killsInWindow": 6,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "03/01/2026 16:44:42",
+                "extra": {
+                    "killsInWindow": 7,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "03/01/2026 16:44:59",
+                "extra": {
+                    "killsInWindow": 8,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "03/01/2026 16:45:11",
+                "extra": {
+                    "killsInWindow": 9,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "03/01/2026 16:45:14",
+                "extra": {
+                    "killsInWindow": 10,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "04/01/2026 15:09:04",
+                "extra": {
+                    "killsInWindow": 6,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "04/01/2026 15:10:04",
+                "extra": {
+                    "killsInWindow": 7,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "04/01/2026 15:10:26",
+                "extra": {
+                    "killsInWindow": 7,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "04/01/2026 15:10:40",
+                "extra": {
+                    "killsInWindow": 8,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "04/01/2026 15:11:23",
+                "extra": {
+                    "killsInWindow": 8,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "04/01/2026 15:11:59",
+                "extra": {
+                    "killsInWindow": 9,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "04/01/2026 15:12:12",
+                "extra": {
+                    "killsInWindow": 10,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "04/01/2026 15:12:47",
+                "extra": {
+                    "killsInWindow": 10,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "04/01/2026 15:13:06",
+                "extra": {
+                    "killsInWindow": 10,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "04/01/2026 15:13:46",
+                "extra": {
+                    "killsInWindow": 11,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "04/01/2026 15:14:13",
+                "extra": {
+                    "killsInWindow": 10,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "04/01/2026 15:14:31",
+                "extra": {
+                    "killsInWindow": 11,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "04/01/2026 15:14:44",
+                "extra": {
+                    "killsInWindow": 12,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "04/01/2026 15:15:01",
+                "extra": {
+                    "killsInWindow": 13,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "04/01/2026 15:15:57",
+                "extra": {
+                    "killsInWindow": 11,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "04/01/2026 15:18:22",
+                "extra": {
+                    "killsInWindow": 7,
+                    "windowSeconds": 300
+                }
+            }
+        ]
+    },
+    "license:4f2bf225afa01629630946197bcc220075918d8b": {
+        "score": 0,
+        "lastUpdate": 1767099815,
+        "history": []
+    },
+    "license:d10e7817a86ad05009cebf70e328efe804608ec4": {
+        "score": 0,
+        "lastUpdate": 1767453092,
+        "history": [
+            {
+                "points": 30,
+                "reason": "Réception arme spéciale (MK2/Heavy)",
+                "t": "03/01/2026 15:39:29",
+                "extra": {
+                    "fromType": "temp",
+                    "item": "WEAPON_CARBINERIFLE_MK2",
+                    "fromInv": "temp-576544",
+                    "count": 1
+                }
+            }
+        ]
+    },
+    "license:054b9ab07f0de7307ed9558a1653434caf62fb4b": {
+        "score": 0,
+        "lastUpdate": 1767476523,
+        "history": [
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "03/01/2026 20:21:03",
+                "extra": {
+                    "killsInWindow": 6,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "03/01/2026 20:21:31",
+                "extra": {
+                    "killsInWindow": 7,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "03/01/2026 20:22:00",
+                "extra": {
+                    "killsInWindow": 7,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 35,
+                "reason": "Grosse somme reçue (>=500k)",
+                "t": "03/01/2026 22:05:09",
+                "extra": {
+                    "toInv": 7,
+                    "toType": "player",
+                    "count": 2793265,
+                    "item": "money",
+                    "fromInv": "drop-627103",
+                    "fromType": "drop"
+                }
+            }
+        ]
+    },
+    "license:ba74a29222031b01b7afb456b06926ba1e31d452": {
+        "score": 0,
+        "lastUpdate": 1767458159,
+        "history": [
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "03/01/2026 16:44:54",
+                "extra": {
+                    "killsInWindow": 6,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "03/01/2026 16:45:31",
+                "extra": {
+                    "killsInWindow": 7,
+                    "windowSeconds": 300
+                }
+            }
+        ]
+    },
+    "license:b8bb5b017906d2050c3f8870df719e479ceee77a": {
+        "score": 0,
+        "lastUpdate": 1767541263,
+        "history": [
+            {
+                "points": 30,
+                "reason": "Réception arme spéciale (MK2/Heavy)",
+                "t": "02/01/2026 19:29:44",
+                "extra": {
+                    "fromType": "temp",
+                    "item": "WEAPON_HOMINGLAUNCHER",
+                    "fromInv": "temp-493444",
+                    "count": 1
+                }
+            },
+            {
+                "points": 30,
+                "reason": "Réception arme spéciale (MK2/Heavy)",
+                "t": "02/01/2026 23:09:45",
+                "extra": {
+                    "fromType": "temp",
+                    "item": "WEAPON_GRENADELAUNCHER",
+                    "fromInv": "temp-148450",
+                    "count": 1
+                }
+            },
+            {
+                "points": 35,
+                "reason": "Grosse somme reçue (>=500k)",
+                "t": "02/01/2026 23:13:56",
+                "extra": {
+                    "toInv": "drop-802957",
+                    "toType": "drop",
+                    "count": 1000000,
+                    "item": "money",
+                    "fromInv": 1,
+                    "fromType": "player"
+                }
+            },
+            {
+                "points": 35,
+                "reason": "Grosse somme reçue (>=500k)",
+                "t": "02/01/2026 23:16:20",
+                "extra": {
+                    "toInv": 1,
+                    "toType": "player",
+                    "count": 1000000,
+                    "item": "money",
+                    "fromInv": "drop-802957",
+                    "fromType": "drop"
+                }
+            },
+            {
+                "points": 35,
+                "reason": "Grosse somme reçue (>=500k)",
+                "t": "03/01/2026 22:04:37",
+                "extra": {
+                    "toInv": "newdrop",
+                    "toType": "drop",
+                    "count": 2793265,
+                    "item": "money",
+                    "fromInv": 6,
+                    "fromType": "player"
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "04/01/2026 01:08:07",
+                "extra": {
+                    "killsInWindow": 6,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "04/01/2026 01:08:54",
+                "extra": {
+                    "killsInWindow": 6,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "04/01/2026 01:09:42",
+                "extra": {
+                    "killsInWindow": 7,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "04/01/2026 01:10:30",
+                "extra": {
+                    "killsInWindow": 7,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 15,
+                "reason": "Kill total élevé (streak)",
+                "t": "04/01/2026 01:28:48",
+                "extra": {
+                    "totalKills": 50
+                }
+            },
+            {
+                "points": 15,
+                "reason": "Kill total élevé (streak)",
+                "t": "04/01/2026 02:43:36",
+                "extra": {
+                    "totalKills": 60
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "04/01/2026 02:46:04",
+                "extra": {
+                    "killsInWindow": 6,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "04/01/2026 02:46:37",
+                "extra": {
+                    "killsInWindow": 7,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 25,
+                "reason": "Kill spam (>5 kills / 5 min)",
+                "t": "04/01/2026 02:48:23",
+                "extra": {
+                    "killsInWindow": 6,
+                    "windowSeconds": 300
+                }
+            },
+            {
+                "points": 15,
+                "reason": "Kill total élevé (streak)",
+                "t": "04/01/2026 15:08:03",
+                "extra": {
+                    "totalKills": 70
+                }
+            },
+            {
+                "points": 35,
+                "reason": "Grosse somme reçue (>=500k)",
+                "t": "04/01/2026 16:03:40",
+                "extra": {
+                    "toInv": 13,
+                    "toType": "player",
+                    "count": 500000,
+                    "item": "money",
+                    "fromInv": "temp-448253",
+                    "fromType": "temp"
+                }
+            }
+        ]
+    },
+    "license:c812d09d4bdd5d4b40d17af8ed562cf3f35ad8d8": {
+        "score": 0,
+        "lastUpdate": 1767407501,
+        "history": [
+            {
+                "points": 30,
+                "reason": "Réception arme spéciale (MK2/Heavy)",
+                "t": "03/01/2026 02:30:05",
+                "extra": {
+                    "fromType": "temp",
+                    "item": "WEAPON_HEAVYSNIPER_MK2",
+                    "fromInv": "temp-950702",
+                    "count": 1
+                }
+            },
+            {
+                "points": 30,
+                "reason": "Réception arme spéciale (MK2/Heavy)",
+                "t": "03/01/2026 02:40:36",
+                "extra": {
+                    "fromType": "temp",
+                    "item": "WEAPON_REVOLVER_MK2",
+                    "fromInv": "temp-384557",
+                    "count": 1
+                }
+            }
+        ]
+    }
+}
