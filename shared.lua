@@ -21,7 +21,7 @@ Config.Webhooks = {
   pickup = 'https://discord.com/api/webhooks/1454644592220831798/44SEp3v7OE0Br6F1uVVbhPzGhqLZm3su8yL6G7khFojCaQK0nh5md8n2Im-HQW8JNBIO',
 }
 
-Config.BotName = 'NeraLife Logs By Galipette'
+Config.BotName = 'Five UI Logs By Galipette'
 
 Config.EnableConsole = true
 Config.EnableFile = true
@@ -29,3 +29,4 @@ Config.LogFile = 'logs.txt'
 
 -- Anti-spam tirs (ms)
 Config.ShootCooldown = 300
+
